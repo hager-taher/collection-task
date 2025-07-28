@@ -1,1 +1,1 @@
-![Photo Manager Screenshot](Screenshot%20(4).png)
+![Photo Manager Screenshot](Screenshot%20(7).png)
